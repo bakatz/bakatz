@@ -1,1 +1,1 @@
-👋 &nbsp;Hey, I’m Ben and I write software. I'm currently a Staff Software Engineer at DoorDash. See https://bakatz.com to learn more about me, or take a look at my pinned projects below for some of the significant OSS contributions I've made recently.
+👋 &nbsp;Hey, I’m Ben and I write software. See https://bakatz.com to learn more about me, or take a look at my pinned projects below for some of the significant OSS contributions I've made recently.
